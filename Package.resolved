@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Atlas",
+        "repositoryURL": "https://github.com/tt301/Atlas.git",
+        "state": {
+          "branch": null,
+          "revision": "dd66dc5d347beae4b93460a924e757cbc62ba61a",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
